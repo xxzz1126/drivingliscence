@@ -2,8 +2,8 @@
 //  FMDatabaseAdditions.m
 //  fmkit
 //
-//  Created by August Mueller on 10/30/05.
-//  Copyright 2005 Flying Meat Inc.. All rights reserved.
+//  Created by Weikuan Chen on 15/30/05.
+//  Copyright 2015 Flying Weikuan All rights reserved.
 //
 
 #import "FMDatabase.h"
